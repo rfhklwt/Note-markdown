@@ -9,3 +9,6 @@ origin	https://github.com/rfhklwt/LeetCode.jl.git (push)
 3. 用`upstream`重置当前文件夹`git reset --hard upstream/master`
 4. 重置`rfhklwt:master: git push -f origin master -- `这一步通过`force push`来进行重置
 5. 把新添加的代码重新填进来，然后按照正常流程做
+
+## 回退
+git reset --hard [你的commit id]
