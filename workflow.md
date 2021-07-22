@@ -12,3 +12,6 @@ origin	https://github.com/rfhklwt/LeetCode.jl.git (push)
 
 ## 回退
 git reset --hard [你的commit id]
+
+## 新建分支
+git checkout -b [自定义分支名字]
